@@ -1,0 +1,4 @@
+-Go to Place where you install Stronghold Crusader.
+-Open AIV Folder
+-Copy aiv files and paste to folder 
+-Done
